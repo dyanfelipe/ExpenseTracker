@@ -6,9 +6,9 @@ the development was carried out applying some concepts.
 - Data transformation
 - Data fetching with combine
 - Data handling and computation
-- Icon library
+- [Icon library](https://github.com/huybuidac/SwiftUIFontIcon)
 - [SwiftUI Charts Library](https://github.com/AppPear/ChartView)
-- Swift collections package
+- [Swift collections package](https://github.com/apple/swift-collections)
 
 
 
